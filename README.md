@@ -75,4 +75,5 @@ docker-compose up -d
 2. Copy config file from Droplet (I did this using WinSCP)
 3. Enter Droplet's IP, Username and Password
 4. Connect
-5. ![Use IPLeak.net to show before](Wireguard%Before%.png) and ![after](Wireguard%After%.png)
+5. ![Use IPLeak.net to show before](Wireguard%20Before.png) and ![after](Wireguard%20After.png)
+
