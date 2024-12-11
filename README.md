@@ -68,12 +68,12 @@ docker-compose up -d
 2. Click the '+' icon in the bottom right
 3. Select "Create from QR Code"
 4. Connect
-5. ![Use IPLeak.net to show before](Wireguard%20Before%20(Mobile).jpg) and ![after](Wireguard%20After%20(Mobile).jpg)
+5. Use IPLeak.net to show before ![Before](Wireguard%20Before%20(Mobile).jpg) and after ![after](Wireguard%20After%20(Mobile).jpg)
 
 # Step 5: Connect to Wireguard on Laptop/PC
 1. Install Wireguard on local environment
 2. Copy config file from Droplet (I did this using WinSCP)
 3. Enter Droplet's IP, Username and Password
 4. Connect
-5. ![Use IPLeak.net to show before](Wireguard%20Before.png) and ![after](Wireguard%20After.png)
+5. Use IPLeak.net to show before ![Before](Wireguard%20Before.png) and after ![after](Wireguard%20After.png)
 
